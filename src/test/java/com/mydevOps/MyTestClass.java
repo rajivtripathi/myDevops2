@@ -1,4 +1,4 @@
-package com.mydevOps2;
+package com.mydevOps;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

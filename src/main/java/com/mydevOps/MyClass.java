@@ -1,4 +1,4 @@
-package com.mydevOps2;
+package com.mydevOps;
 
 public class MyClass {
 

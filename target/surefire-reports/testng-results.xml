@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T22:43:45 IST" name="Suite" finished-at="2022-12-15T22:43:45 IST" duration-ms="175">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T22:43:45 IST" name="Test" finished-at="2022-12-15T22:43:45 IST" duration-ms="175">
+      <class name="com.mydevOps.MyTestClass">
+        <test-method signature="test1()[pri:0, instance:com.mydevOps.MyTestClass@78e94dcf]" started-at="2022-12-15T22:43:45 IST" name="test1" finished-at="2022-12-15T22:43:45 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.mydevOps.MyTestClass@78e94dcf]" started-at="2022-12-15T22:43:45 IST" name="test2" finished-at="2022-12-15T22:43:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.mydevOps.MyTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
